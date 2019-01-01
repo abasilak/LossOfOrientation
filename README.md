@@ -4,4 +4,4 @@ The LoO service identifies loss of orientation of (older) people based on (a) ou
 
 ![Screenshot](teaser.png)
 
-This work is part of EU-funded project [_FRAILSAFE: Sensing and predictive treatment of frailty and associated co-morbidities using advanced personalized models and advanced interventions_](http://www.frailsafe-project.eu/) under Horizon 2020 (grant no.690140).
+This research work has received funding from the European Union’s Horizon 2020 research and innovation programme “[FrailSafe](http://www.frailsafe-project.eu/)” under grant agreement No 690140.
