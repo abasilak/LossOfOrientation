@@ -1,0 +1,4 @@
+0.1  // maxFarDistance in Kms
+30.0  // maxPacingAngle in degrees
+220.0 // maxLappingAngle1 in degrees
+270.0 // maxLappingAngle2 in degrees  

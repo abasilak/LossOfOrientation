@@ -1,0 +1,4 @@
+0.87456447 // Polygon Fence
+0.3031359 // Points of Interest
+0.99649125 // Pacing
+0.99015677 // Lapping
