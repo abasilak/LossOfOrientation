@@ -4,4 +4,4 @@ The LoO service identifies loss of orientation of (older) people based on (a) ou
 
 ![Screenshot](teaser.png)
 
-This research work has received funding from the European Union’s Horizon 2020 research and innovation programme “[FrailSafe](http://www.frailsafe-project.eu/)” under grant agreement No 690140.
+This research work has received funding from the European Union’s Horizon 2020 research and innovation programme “[FrailSafe](http://www.frailsafe-project.eu/)” under grant agreement No 690140. For more info, check this [blog post](http://frailsafe-project.eu/news/73-loss-of-orientation).
